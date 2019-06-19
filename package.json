@@ -27,7 +27,7 @@
     "thunky": "^1.0.0",
     "twilio": "^3.7.0",
     "upload-element": "^1.0.1",
-    "webtorrent": "0.x"
+    "webtorrent": "^0.103.3"
   },
   "devDependencies": {
     "babel-minify": "^0.5.0",
